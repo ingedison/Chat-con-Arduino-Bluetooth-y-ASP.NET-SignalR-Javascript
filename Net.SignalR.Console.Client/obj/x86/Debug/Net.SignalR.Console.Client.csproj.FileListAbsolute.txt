@@ -1,0 +1,9 @@
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.Console.Client\bin\Debug\Net.SignalR.Console.Client.exe
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.Console.Client\bin\Debug\Net.SignalR.Console.Client.pdb
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.Console.Client\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.Console.Client\bin\Debug\SignalR.Client.dll
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.Console.Client\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.Console.Client\bin\Debug\SignalR.Client.xml
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.Console.Client\obj\x86\Debug\Net.SignalR.Console.Client.csprojResolveAssemblyReference.cache
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.Console.Client\obj\x86\Debug\Net.SignalR.Console.Client.exe
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.Console.Client\obj\x86\Debug\Net.SignalR.Console.Client.pdb

@@ -1,0 +1,13 @@
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.SelfHost\bin\Debug\Net.SignalR.SelfHost.exe
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.SelfHost\bin\Debug\Net.SignalR.SelfHost.pdb
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.SelfHost\bin\Debug\Newtonsoft.Json.dll
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.SelfHost\bin\Debug\SignalR.dll
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.SelfHost\bin\Debug\SignalR.Hosting.Common.dll
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.SelfHost\bin\Debug\SignalR.Hosting.Self.dll
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.SelfHost\bin\Debug\Newtonsoft.Json.xml
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.SelfHost\bin\Debug\SignalR.xml
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.SelfHost\bin\Debug\SignalR.Hosting.Common.xml
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.SelfHost\bin\Debug\SignalR.Hosting.Self.xml
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.SelfHost\obj\x86\Debug\Net.SignalR.SelfHost.csprojResolveAssemblyReference.cache
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.SelfHost\obj\x86\Debug\Net.SignalR.SelfHost.exe
+D:\Users\Edison\Desktop\SignalR\Net.SignalR.SelfHost\obj\x86\Debug\Net.SignalR.SelfHost.pdb
